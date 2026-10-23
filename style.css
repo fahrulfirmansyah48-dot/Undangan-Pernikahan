@@ -1,0 +1,27 @@
+body {
+  font-family: "Segoe UI", sans-serif;
+  background: #fff8f5;
+}
+
+#cover {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #b76e79, #e8b4b8);
+  color: white;
+}
+
+.hero {
+  min-height: 70vh;
+  background: linear-gradient(135deg, #b76e79, #e8b4b8);
+}
+
+h1, h2, h3 {
+  color: #8c4a4f;
+}
+
+.hero h1 {
+  color: white;
+}
+
+#countdown {
+  color: #8c4a4f;
+}
